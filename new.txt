@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hi this is MJdude
 From Bangalore
+=======
+Hi i am MJdude
+From Delhi
+>>>>>>> 6cf9b5cc756ae18b452415057f08d05b9a54de09
